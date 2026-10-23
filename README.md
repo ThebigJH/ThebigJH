@@ -1,7 +1,6 @@
-# 👋 Hi, WELCOME TO PARENT - TEACHER INTERVIEW
-MS - ZEREEN 
-
+# 👋 Hi, im Johnson Huang!
+I am passionate about aerospace and a computer science enthusiast!
 ---
 
-# 👋 您好，欢迎参加家校面谈
-Zereen 老师
+Contact me
+Email: johnson.10huang@gmail.com
