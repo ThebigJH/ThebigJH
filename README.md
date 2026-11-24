@@ -1,5 +1,5 @@
 # 👋 Hi, im Johnson Huang!
-I am passionate about aerospace and a computer science enthusiast!
+I am passionate about mechatronics and AI engineering!
 ---
 
 Contact me
